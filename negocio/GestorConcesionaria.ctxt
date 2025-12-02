@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GestorConcesionaria
+comment1.params=
+comment1.target=GestorConcesionaria()
+comment2.params=
+comment2.target=void\ guardarDatos()
+comment3.params=
+comment3.target=void\ cargarDatos()
+comment4.params=
+comment4.target=void\ generarRespaldo()
+comment5.params=
+comment5.target=void\ autoGuardar()
+comment6.params=
+comment6.target=InventarioVehiculos\ getInventario()
+comment7.params=
+comment7.target=ColaRevisionMecanica\ getTaller()
+comment8.params=
+comment8.target=ColaLavadero\ getLavadero()
+comment9.params=
+comment9.target=java.lang.String\ obtenerEstadisticas()
+numComments=10

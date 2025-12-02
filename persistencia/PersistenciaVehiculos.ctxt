@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PersistenciaVehiculos
+comment1.params=vehiculos\ rutaArchivo
+comment1.target=void\ guardar(java.util.List,\ java.lang.String)
+comment2.params=rutaArchivo
+comment2.target=java.util.List\ cargar(java.lang.String)
+comment3.params=rutaOrigen\ rutaDestino
+comment3.target=void\ realizarRespaldo(java.lang.String,\ java.lang.String)
+numComments=4

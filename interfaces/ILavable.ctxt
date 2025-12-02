@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ILavable
+comment1.params=
+comment1.target=void\ realizarLavadoBasico()
+comment2.params=
+comment2.target=void\ realizarDetalladoExhibicion()
+comment3.params=
+comment3.target=boolean\ necesitaLavado()
+comment4.params=
+comment4.target=java.lang.String\ getEstadoLavado()
+numComments=5

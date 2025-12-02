@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PersistenciaException
+comment1.params=mensaje
+comment1.target=PersistenciaException(java.lang.String)
+comment2.params=mensaje\ causa
+comment2.target=PersistenciaException(java.lang.String,\ java.lang.Throwable)
+numComments=3

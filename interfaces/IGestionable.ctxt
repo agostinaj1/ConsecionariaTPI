@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IGestionable
+comment1.params=item
+comment1.target=void\ agregar(java.lang.Object)
+comment2.params=id
+comment2.target=void\ eliminar(java.lang.String)
+comment3.params=id
+comment3.target=java.lang.Object\ buscar(java.lang.String)
+comment4.params=
+comment4.target=int\ cantidadTotal()
+numComments=5

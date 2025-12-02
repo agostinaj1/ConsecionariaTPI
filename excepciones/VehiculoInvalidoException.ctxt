@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VehiculoInvalidoException
+comment1.params=mensaje
+comment1.target=VehiculoInvalidoException(java.lang.String)
+comment2.params=mensaje\ causa
+comment2.target=VehiculoInvalidoException(java.lang.String,\ java.lang.Throwable)
+numComments=3

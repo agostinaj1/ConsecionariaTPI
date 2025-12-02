@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ColaLavadero
+comment0.text=Cola\ de\ espera\ para\ el\ Lavadero\r\nUtiliza\ LinkedList\ que\ implementa\ Queue
+comment1.params=
+comment1.target=ColaLavadero()
+comment10.params=
+comment10.target=int\ getCantidadEnLavadero()
+comment2.params=v
+comment2.target=void\ agregarACola(modelo.Vehiculo)
+comment3.params=
+comment3.target=modelo.Vehiculo\ realizarLavadoBasico()
+comment4.params=
+comment4.target=modelo.Vehiculo\ realizarDetalladoExhibicion()
+comment5.params=
+comment5.target=modelo.Vehiculo\ verSiguiente()
+comment6.params=
+comment6.target=int\ cantidadEnEspera()
+comment7.params=
+comment7.target=boolean\ estaVacia()
+comment8.params=
+comment8.target=java.util.List\ obtenerVehiculosEnCola()
+comment9.params=
+comment9.target=void\ limpiarCola()
+numComments=11

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ColaRevisionMecanica
+comment1.params=
+comment1.target=ColaRevisionMecanica()
+comment2.params=v
+comment2.target=void\ agregarACola(modelo.Vehiculo)
+comment3.params=
+comment3.target=modelo.Vehiculo\ atenderSiguiente()
+comment4.params=
+comment4.target=modelo.Vehiculo\ verSiguiente()
+comment5.params=
+comment5.target=int\ cantidadEnEspera()
+comment6.params=
+comment6.target=boolean\ estaVacia()
+comment7.params=
+comment7.target=java.util.List\ obtenerVehiculosEnCola()
+comment8.params=
+comment8.target=void\ limpiarCola()
+comment9.params=
+comment9.target=int\ getCantidadEnTaller()
+numComments=10

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EstadisticasAvanzadas
+comment1.params=vehiculos
+comment1.target=utilidades.Par\ agruparPorTipo(java.util.List)
+comment2.params=vehiculos
+comment2.target=java.lang.String\ generarReportePorTipo(java.util.List)
+comment3.params=inventario\ taller\ lavadero
+comment3.target=java.util.List\ generarEstadisticasGenerales(InventarioVehiculos,\ ColaRevisionMecanica,\ ColaLavadero)
+comment4.params=estadisticas
+comment4.target=java.lang.String\ formatearEstadisticas(java.util.List)
+numComments=5

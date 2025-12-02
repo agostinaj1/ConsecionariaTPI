@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CondicionVehiculo
+comment1.params=descripcion
+comment1.target=CondicionVehiculo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescripcion()
+numComments=3
